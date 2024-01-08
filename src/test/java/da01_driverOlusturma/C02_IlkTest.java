@@ -12,5 +12,8 @@ public class C02_IlkTest {
         WebDriver driver = new ChromeDriver();
 
         driver.get("https://www.testotomasyonu.com");
+
+   //sdfs
+
     }
 }
